@@ -1,0 +1,5 @@
+dvdrental/
+.venv/
+*.csv
+*.zip
+*.exe
